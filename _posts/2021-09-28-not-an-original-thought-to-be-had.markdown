@@ -20,6 +20,7 @@ I guess I'll use this as a mechanism to extrapolate my thoughts and try to creat
 Otherwise i'll just use this as a project board.
 Try a couple things, fail a bit, try some more. 
 
-noise for noise's sake
+noise for noise's sake, but if one must use a forum to better one's self, one must.
+
 
 
