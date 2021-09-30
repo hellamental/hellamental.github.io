@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm sure I'll come edit this page at some point in the future...
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+But for now:
+I'm an electrical engineer that never got into any 'real' engineering work
+Instead I have been into spreadsheets, software and strategy.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I want to get good at computers - I want mad programmer skills.
+I want hacking skills - pull it apart, put it back together better kind of skills.
+But I am also like many others of my generation with an excruciatingly short attention span - I think it's due to the technology, which I love but also hate. 
+
+Anyways, trying to find some exciting projects and learn some stuff...
+
+See-Ya 
 
 
-[jekyll-organization]: https://github.com/jekyll
